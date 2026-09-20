@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
-import redbusImage from "../assets/redbus.png";
-import foodOrderingImage from "../assets/food-ordering.png";
-import threePhaseImage from "../assets/three-phase.png";
-import taskManagerImage from "../assets/task-manager.png";
+// import redbusImage from "../assets/redbus.png";
+// import foodOrderingImage from "../assets/food-ordering.png";
+// import threePhaseImage from "../assets/three-phase.png";
+// import taskManagerImage from "../assets/task-manager.png";
 import Reveal from "./Reveal";
 
 const projects = [
